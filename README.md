@@ -24,3 +24,5 @@ Optimize seasonal sales strategies based on peak demand.
 Promote alternative payment methods to reduce dependency on credit cards.
 Enhance underperforming product categories to increase revenue.
 This analysis provides valuable business insights to boost customer satisfaction, optimize operations, and maximize profitability for ShopNest Store. 
+
+
