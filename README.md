@@ -1,4 +1,4 @@
-# ShopNest-Store-Power-BI-Capstone
+# ShopNest Store Performance Analysis into (Power BI)
 
 Project Description:
 The ShopNest Store Power BI Capstone Project is an in-depth data analysis of an e-commerce marketplace using Power BI. The dataset consists of 9 different tables, allowing for a comprehensive evaluation of operational efficiency, sales trends, customer behavior, and delivery performance.
